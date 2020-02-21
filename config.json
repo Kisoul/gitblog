@@ -14,7 +14,7 @@
         //add your menu items and URL here
         //example:
         //"Home" : "./",
-        "首页":"./",
+        "首页" : "./",
         "RSS" : "https://rsshub.app/github/issue/RealKiro/RealKiro.github.io",
         "About me" : "content.html?id=41"
     },
@@ -33,7 +33,7 @@
         //  "hidden_img" : "the image you want to show",
         //  "width" : the width of the hidden_img, this should be a number.(unit : px)
         //}
-        //example :
+        //example : 
         "Github" : {
             "icon_src" : "images/github.svg",
             "href" : "https://github.com/RealKiro/gitblog",
