@@ -627,7 +627,6 @@ var gitblog = function(config) {
             var issue = this;
             $.ajax({
                 type: 'get',
-                // 新增请求header，可以直接从github上直接获得渲染过后的html格式信息
                 headers: {
                     Accept: 'application/vnd.github.squirrel-girl-preview, application/vnd.github.html+json, application/x-www-form-urlencoded',
                 },
